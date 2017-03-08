@@ -2,6 +2,8 @@
 layout: post
 ---
 
+# Shared code series: support contracts
+
 What is a support contract? How is it related to public/private APIs?
 
 Anything in Objective-C is technically "public", but it's important for us to make a distinction between what we _intend_ to support and what we don't.
