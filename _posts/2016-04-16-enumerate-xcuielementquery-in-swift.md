@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # Enumerate XCUIElementQuery in Swift
 
 Let's learn how to make XCUIElementQuery enumerable in a Swift `for-in` loop so that we can do the following:
