@@ -4,8 +4,6 @@ layout: post
 
 # Shared code series: retirement
 
-*This is part of [a series on Shared code](/shared-code-series/)*.
-
 **Creating** shared code is easy. **Retiring** shared code, however, is not.
 
 **Creating** shared code is easy because doing so does not *require*
